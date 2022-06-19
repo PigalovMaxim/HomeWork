@@ -3,8 +3,8 @@ if ("0") {
     alert( 'Привет' );
 }
 //Второе задание
-const name = prompt('Какое "официальное" название JavaScript?', '');
-if(name === 'ECMAScript') {
+const name4 = prompt('Какое "официальное" название JavaScript?', '');
+if(name4 === 'ECMAScript') {
     alert('Верно!');
 } else {
     alert('Не знаете? “ECMAScript”!');
@@ -22,10 +22,10 @@ if(Number(num) === 0){
 }
 //Четвёртое задание
 let result;
-let a = 3;
-let b = 2;
+let a3 = 3;
+let b3 = 2;
 
-(a + b < 4) ? result = 'Мало' : result = 'Много';
+(a3 + b3 < 4) ? result = 'Мало' : result = 'Много';
 //Пятое задание
 let message;
 let login = '';

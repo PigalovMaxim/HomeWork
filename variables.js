@@ -1,9 +1,9 @@
 //Первая часть
 
 let name;
-name = 'Джон';
+name1 = 'Джон';
 let admin;
-admin = name;
+admin = name1;
 alert(admin);
 
 //Вторая часть

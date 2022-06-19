@@ -1,3 +1,3 @@
-const name = prompt('Как вас зовут?', '');
+const name3 = prompt('Как вас зовут?', '');
 
-alert(`Вас зовут ${name}`);
+alert(`Вас зовут ${name3}`);
